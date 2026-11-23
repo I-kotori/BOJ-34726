@@ -4,7 +4,7 @@
 
 ## 파일
 
-- `problem.html`: 한국어 문제 페이지 스냅샷
+- `index.html`: 한국어 문제 페이지 스냅샷
 - `problem_en.html`: 영어 보기 문제 페이지 스냅샷
 - `problem.json`: 문제 메타데이터와 본문
 - `problem.png`: 문제 페이지 이미지
